@@ -6,6 +6,6 @@ This is for javascript question pratice repo.
 
 i m satendra
 
-# frineds
+# friends
 
 amit rahul deepak sunit pankaj
